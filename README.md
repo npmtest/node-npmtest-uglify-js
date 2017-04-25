@@ -1,6 +1,6 @@
 # npmtest-uglify-js
 
-#### test coverage for  [uglify-js (v2.8.22)](http://lisperator.net/uglifyjs)  [![npm package](https://img.shields.io/npm/v/npmtest-uglify-js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-uglify-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-uglify-js.svg)](https://travis-ci.org/npmtest/node-npmtest-uglify-js)
+#### basic test coverage for  [uglify-js (v2.8.22)](http://lisperator.net/uglifyjs)  [![npm package](https://img.shields.io/npm/v/npmtest-uglify-js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-uglify-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-uglify-js.svg)](https://travis-ci.org/npmtest/node-npmtest-uglify-js)
 
 #### JavaScript parser, mangler/compressor and beautifier toolkit
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-uglify-js/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-uglify-js/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-uglify-js/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-uglify-js/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-uglify-js/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-uglify-js/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-uglify-js/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-uglify-js/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-uglify-js/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-uglify-js/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-uglify-js/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-uglify-js/build/coverage.html/index.html)
 
